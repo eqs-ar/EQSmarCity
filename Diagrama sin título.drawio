@@ -1,23 +1,23 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Página-1" id="VVE8ATfnPPD_N7JHIAnT">
-    <mxGraphModel dx="4297" dy="1747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5466" dy="1497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DeS9Wg2HZGTHuiJAIv9w-12" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=6;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.add;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="-1284.25" y="890" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="-2874.25" y="740" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DeS9Wg2HZGTHuiJAIv9w-13" value="" style="shape=mxgraph.pid.pumps.centrifugal_pump_2;html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="-1480" y="770" width="62" height="77" as="geometry" />
+          <mxGeometry x="-3070" y="620" width="62" height="77" as="geometry" />
         </mxCell>
         <mxCell id="DeS9Wg2HZGTHuiJAIv9w-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.56;exitY=0.995;exitDx=0;exitDy=0;exitPerimeter=0;shape=flexArrow;strokeWidth=4;entryX=0.485;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0080f0;" edge="1" parent="1" source="DeS9Wg2HZGTHuiJAIv9w-12" target="DeS9Wg2HZGTHuiJAIv9w-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1710" y="890" as="sourcePoint" />
-            <mxPoint x="-1690" y="850" as="targetPoint" />
+            <mxPoint x="-3300" y="740" as="sourcePoint" />
+            <mxPoint x="-3280" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DeS9Wg2HZGTHuiJAIv9w-15" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1220" y="370" width="154" height="230" as="geometry" />
+          <mxGeometry x="-2810" y="220" width="154" height="230" as="geometry" />
         </mxCell>
         <mxCell id="DeS9Wg2HZGTHuiJAIv9w-16" value="&lt;h2&gt;NOF&lt;/h2&gt;" style="shape=mxgraph.pid.vessels.container,_tank,_cistern_(bottom);html=1;pointerEvents=1;align=left;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;strokeWidth=7;fillColor=#53dc4c;strokeColor=#82b366;gradientColor=default;gradientDirection=north;horizontal=1;" vertex="1" parent="DeS9Wg2HZGTHuiJAIv9w-15">
           <mxGeometry width="154" height="230" as="geometry" />
@@ -26,28 +26,28 @@
           <mxGeometry x="27.5" y="30" width="99" height="99" as="geometry" />
         </mxCell>
         <mxCell id="DeS9Wg2HZGTHuiJAIv9w-18" value="" style="shape=mxgraph.signs.transportation.bus_3;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="-1540" y="634" width="99" height="33" as="geometry" />
+          <mxGeometry x="-3130" y="484" width="99" height="33" as="geometry" />
         </mxCell>
         <mxCell id="DeS9Wg2HZGTHuiJAIv9w-19" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.01;exitY=0.407;exitDx=0;exitDy=0;exitPerimeter=0;shape=flexArrow;strokeWidth=4;entryX=0.5;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0080f0;" edge="1" parent="1" source="DeS9Wg2HZGTHuiJAIv9w-29" target="DeS9Wg2HZGTHuiJAIv9w-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1224" y="1048" as="sourcePoint" />
-            <mxPoint x="-1630" y="960" as="targetPoint" />
+            <mxPoint x="-2814" y="898" as="sourcePoint" />
+            <mxPoint x="-3220" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DeS9Wg2HZGTHuiJAIv9w-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.123;exitY=1.011;exitDx=0;exitDy=0;exitPerimeter=0;shape=flexArrow;strokeWidth=4;strokeColor=#0080f0;entryX=-0.04;entryY=0.468;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DeS9Wg2HZGTHuiJAIv9w-23" target="DeS9Wg2HZGTHuiJAIv9w-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1274" y="928" as="sourcePoint" />
-            <mxPoint x="-1260" y="860" as="targetPoint" />
+            <mxPoint x="-2864" y="778" as="sourcePoint" />
+            <mxPoint x="-2850" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DeS9Wg2HZGTHuiJAIv9w-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.519;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;shape=flexArrow;strokeWidth=4;strokeColor=#0080f0;entryX=0.651;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DeS9Wg2HZGTHuiJAIv9w-16" target="DeS9Wg2HZGTHuiJAIv9w-23">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1188" y="620" as="sourcePoint" />
-            <mxPoint x="-1190" y="682" as="targetPoint" />
+            <mxPoint x="-2778" y="470" as="sourcePoint" />
+            <mxPoint x="-2780" y="532" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DeS9Wg2HZGTHuiJAIv9w-22" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1286" y="670" width="220" height="154.5" as="geometry" />
+          <mxGeometry x="-2876" y="520" width="220" height="154.5" as="geometry" />
         </mxCell>
         <mxCell id="DeS9Wg2HZGTHuiJAIv9w-23" value="&lt;font color=&quot;#0000ff&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;Recursos e Insumos Op&lt;/b&gt;&lt;/font&gt;" style="shape=mxgraph.pid.vessels.vessel_(dome);html=1;pointerEvents=1;align=right;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;fillColor=#7FECF0;strokeColor=#10739e;gradientDirection=north;gradientColor=default;" vertex="1" parent="DeS9Wg2HZGTHuiJAIv9w-22">
           <mxGeometry width="220" height="154.5" as="geometry" />
@@ -62,10 +62,10 @@
           <mxGeometry x="149.5" y="46.5" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DeS9Wg2HZGTHuiJAIv9w-27" value="" style="shape=mxgraph.signs.transportation.bus_3;html=1;pointerEvents=1;fillColor=#f0a30a;strokeColor=#BD7000;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;rotation=-45;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-1520" y="550" width="69.8" height="23" as="geometry" />
+          <mxGeometry x="-3110" y="400" width="69.8" height="23" as="geometry" />
         </mxCell>
         <mxCell id="DeS9Wg2HZGTHuiJAIv9w-28" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1150" y="860" width="400" height="135" as="geometry" />
+          <mxGeometry x="-2740" y="710" width="400" height="135" as="geometry" />
         </mxCell>
         <mxCell id="DeS9Wg2HZGTHuiJAIv9w-29" value="&lt;font style=&quot;font-size: 22px;&quot; color=&quot;#0000cc&quot;&gt;&lt;b&gt;Activos Móviles&lt;/b&gt;&lt;/font&gt;" style="shape=mxgraph.pid.vessels.vessel_(pit);html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;gradientColor=#0de7bc;gradientDirection=north;" vertex="1" parent="DeS9Wg2HZGTHuiJAIv9w-28">
           <mxGeometry width="400" height="135" as="geometry" />
