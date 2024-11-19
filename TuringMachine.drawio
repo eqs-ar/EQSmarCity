@@ -1,9 +1,18 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Página-1" id="wlvIVFtUJSGIrjwaKkID">
-    <mxGraphModel>
+    <mxGraphModel dx="1793" dy="836" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DK-orv8Nl3AaKdKJ5tro-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;TVM&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;i&gt;&lt;b&gt;(Turing Virtual Machine)&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-313" y="301" width="520" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DK-orv8Nl3AaKdKJ5tro-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Registros Blockchain&lt;/font&gt;&lt;/b&gt;" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="207" y="301" width="580" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DK-orv8Nl3AaKdKJ5tro-3" value="&lt;b&gt;&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 17px;&quot;&gt;Block ZERO&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="shape=tape;whiteSpace=wrap;html=1;size=0.4;" vertex="1" parent="1">
+          <mxGeometry x="-383" y="301" width="70" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
